@@ -16,6 +16,9 @@ public class DeleteCharacters extends ConsoleProgram {
 			}
 		}
 	}	
+
+
+	//  test vishnu 
 	/* Using Iterative approach
 	
 	private String removeAllOccurrences(String str, char ch) {
